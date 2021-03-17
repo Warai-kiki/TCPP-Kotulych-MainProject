@@ -112,6 +112,9 @@ namespace Lab_3
 
             Creation_Massiv our_massiv = new Creation_Massiv();
 
+            /// Зміни відбуваються у зв'язку з виконанням лабораторної роботи ///
+            Console.WriteLine("Зміна 1");
+
             Console.WriteLine("Введіть кількість стрічок: ");
             int heigth;
             while (true)
