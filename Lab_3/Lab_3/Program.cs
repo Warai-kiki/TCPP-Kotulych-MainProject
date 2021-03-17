@@ -1,6 +1,6 @@
 ﻿using System;
 // І ще трошки змін
-// From brauser
+// From brauser ver 2
 namespace Lab_3
 {
     class Creation_Massiv
