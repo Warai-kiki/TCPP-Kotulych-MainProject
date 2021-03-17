@@ -1,5 +1,5 @@
 ﻿using System;
-
+// І ще трошки змін
 namespace Lab_3
 {
     class Creation_Massiv
