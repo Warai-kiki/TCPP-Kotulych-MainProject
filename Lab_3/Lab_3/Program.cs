@@ -1,5 +1,7 @@
 ﻿using System;
 // І ще трошки змін
+// Вирішено конфлікт 17.03
+// From brauser ver 2
 // Змінено в IDE
 namespace Lab_3
 {
