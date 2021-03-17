@@ -112,8 +112,6 @@ namespace Lab_3
 
             Creation_Massiv our_massiv = new Creation_Massiv();
 
-            /// Просто коментарі 
-
             Console.WriteLine("Введіть кількість стрічок: ");
             int heigth;
             while (true)
